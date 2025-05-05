@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Start coding since 2014<br>📚 I'm currently learning AI-integration and Chatbot.<br>🎯 Goals: Get a job in tech<br>📫Contact: codeboy.coder@outlook.com</p>
+<p align="left">✨ Start coding since 2014<br>📚 I'm currently learning AI-integration and Chatbot.<br>🎯 Goals: Be a lead dev of talented team<br>📫Contact: codeboy.coder@outlook.com</p>
 
 ###
 
