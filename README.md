@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">✨ Start coding since 2014<br>📚 I'm currently learning Mobile App development.<br>🎯 Goals: Be a lead dev of talented team<br>📫Contact: codeboy.coder@outlook.com</p>
+<p align="left">✨ Start coding since 2014<br>📚 I'm currently focusing on AI.<br>🎯 Goals: Be a lead dev of talented team<br>📫Contact: codeboy.coder@outlook.com</p>
 
 ###
 
@@ -20,6 +20,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/reactnative/reactnative-original.svg" height="40" alt="reactnative logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" height="40" alt="angular logo"  />
   <img width="12" />
