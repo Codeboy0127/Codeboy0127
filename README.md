@@ -1,9 +1,11 @@
 <h1 align="left">👋 Hi, I’m @Codeboy</h1>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Codeboy0127&color=blue" alt="profile views"/>
+</p>
 ###
 
 <h2 align="left">About me</h2>
-![Profile views](https://komarev.com/ghpvc/?username=Codeboy0127&color=blue)
 
 ###
 
