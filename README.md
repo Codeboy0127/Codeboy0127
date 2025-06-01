@@ -1,8 +1,5 @@
 <h1 align="left">👋 Hi, I’m @Codeboy</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Profile%20Views-2,264-blue"/>
-</p>
 ###
 
 <h2 align="left">About me</h2>
